@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		826E6FC01A7F97860075995E /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 826E6FBE1A7F97860075995E /* LICENSE */; };
+		826E6FC11A7F97860075995E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 826E6FBF1A7F97860075995E /* README.md */; };
 		829839ED1A7F9122001371D5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 829839EC1A7F9122001371D5 /* AppDelegate.m */; };
 		829839EF1A7F9122001371D5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 829839EE1A7F9122001371D5 /* main.m */; };
 		829839F11A7F9122001371D5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 829839F01A7F9122001371D5 /* Images.xcassets */; };
@@ -25,6 +27,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		826E6FBE1A7F97860075995E /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		826E6FBF1A7F97860075995E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		829839E61A7F9122001371D5 /* OpenZFSUtility.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenZFSUtility.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		829839EA1A7F9122001371D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		829839EB1A7F9122001371D5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -76,6 +80,8 @@
 		829839E81A7F9122001371D5 /* OpenZFSUtility */ = {
 			isa = PBXGroup;
 			children = (
+				826E6FBE1A7F97860075995E /* LICENSE */,
+				826E6FBF1A7F97860075995E /* README.md */,
 				829839EB1A7F9122001371D5 /* AppDelegate.h */,
 				829839EC1A7F9122001371D5 /* AppDelegate.m */,
 				829839F01A7F9122001371D5 /* Images.xcassets */,
@@ -191,6 +197,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				826E6FC01A7F97860075995E /* LICENSE in Resources */,
 				829839F11A7F9122001371D5 /* Images.xcassets in Resources */,
 				829839F41A7F9122001371D5 /* MainMenu.xib in Resources */,
 			);
@@ -210,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				826E6FC11A7F97860075995E /* README.md in Sources */,
 				829839EF1A7F9122001371D5 /* main.m in Sources */,
 				829839ED1A7F9122001371D5 /* AppDelegate.m in Sources */,
 			);
