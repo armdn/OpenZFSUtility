@@ -12,6 +12,8 @@
 		829839F11A7F9122001371D5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 829839F01A7F9122001371D5 /* Images.xcassets */; };
 		829839F41A7F9122001371D5 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 829839F21A7F9122001371D5 /* MainMenu.xib */; };
 		82983A001A7F9123001371D5 /* OpenZFSUtilityTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 829839FF1A7F9123001371D5 /* OpenZFSUtilityTests.m */; };
+		82BD7E1F1A7F986700B87162 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 82BD7E1D1A7F986700B87162 /* LICENSE */; };
+		82BD7E201A7F986700B87162 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 82BD7E1E1A7F986700B87162 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +37,8 @@
 		829839F91A7F9122001371D5 /* OpenZFSUtilityTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OpenZFSUtilityTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		829839FE1A7F9122001371D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		829839FF1A7F9123001371D5 /* OpenZFSUtilityTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OpenZFSUtilityTests.m; sourceTree = "<group>"; };
+		82BD7E1D1A7F986700B87162 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		82BD7E1E1A7F986700B87162 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 		829839DD1A7F9122001371D5 = {
 			isa = PBXGroup;
 			children = (
+				82BD7E1D1A7F986700B87162 /* LICENSE */,
+				82BD7E1E1A7F986700B87162 /* README.md */,
 				829839E81A7F9122001371D5 /* OpenZFSUtility */,
 				829839FC1A7F9122001371D5 /* OpenZFSUtilityTests */,
 				829839E71A7F9122001371D5 /* Products */,
@@ -191,6 +197,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82BD7E1F1A7F986700B87162 /* LICENSE in Resources */,
 				829839F11A7F9122001371D5 /* Images.xcassets in Resources */,
 				829839F41A7F9122001371D5 /* MainMenu.xib in Resources */,
 			);
@@ -210,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82BD7E201A7F986700B87162 /* README.md in Sources */,
 				829839EF1A7F9122001371D5 /* main.m in Sources */,
 				829839ED1A7F9122001371D5 /* AppDelegate.m in Sources */,
 			);
