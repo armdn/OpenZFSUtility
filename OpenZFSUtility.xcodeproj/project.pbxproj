@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		43E54A3C1AA0494700607D68 /* Add RAIDZ Set.png in Resources */ = {isa = PBXBuildFile; fileRef = 43E54A3A1AA0494700607D68 /* Add RAIDZ Set.png */; };
+		43E54A3D1AA0494700607D68 /* Delete RAIDZ Set.png in Resources */ = {isa = PBXBuildFile; fileRef = 43E54A3B1AA0494700607D68 /* Delete RAIDZ Set.png */; };
 		829839ED1A7F9122001371D5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 829839EC1A7F9122001371D5 /* AppDelegate.m */; };
 		829839EF1A7F9122001371D5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 829839EE1A7F9122001371D5 /* main.m */; };
 		829839F11A7F9122001371D5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 829839F01A7F9122001371D5 /* Images.xcassets */; };
@@ -28,6 +30,8 @@
 
 /* Begin PBXFileReference section */
 		43E54A371AA0403500607D68 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/MainMenu.strings; sourceTree = "<group>"; };
+		43E54A3A1AA0494700607D68 /* Add RAIDZ Set.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Add RAIDZ Set.png"; sourceTree = "<group>"; };
+		43E54A3B1AA0494700607D68 /* Delete RAIDZ Set.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Delete RAIDZ Set.png"; sourceTree = "<group>"; };
 		829839E61A7F9122001371D5 /* OpenZFSUtility.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenZFSUtility.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		829839EA1A7F9122001371D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		829839EB1A7F9122001371D5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -95,6 +99,8 @@
 		829839E91A7F9122001371D5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				43E54A3A1AA0494700607D68 /* Add RAIDZ Set.png */,
+				43E54A3B1AA0494700607D68 /* Delete RAIDZ Set.png */,
 				829839EA1A7F9122001371D5 /* Info.plist */,
 				829839EE1A7F9122001371D5 /* main.m */,
 			);
@@ -201,6 +207,8 @@
 				82BD7E1F1A7F986700B87162 /* LICENSE in Resources */,
 				829839F11A7F9122001371D5 /* Images.xcassets in Resources */,
 				829839F41A7F9122001371D5 /* MainMenu.xib in Resources */,
+				43E54A3D1AA0494700607D68 /* Delete RAIDZ Set.png in Resources */,
+				43E54A3C1AA0494700607D68 /* Add RAIDZ Set.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
