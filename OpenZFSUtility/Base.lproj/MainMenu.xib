@@ -64,8 +64,8 @@
                     <modifierMask key="keyEquivalentModifierMask"/>
                     <menu key="submenu" title="Zpool" id="9Zz-9S-Ka2">
                         <items>
-                            <menuItem title="Create zpool..." keyEquivalent="n" id="KfC-i9-mVW"/>
-                            <menuItem title="Delete zpool..." id="YPp-wX-fhy">
+                            <menuItem title="Create pool..." keyEquivalent="n" id="KfC-i9-mVW"/>
+                            <menuItem title="Delete pool..." id="YPp-wX-fhy">
                                 <modifierMask key="keyEquivalentModifierMask"/>
                             </menuItem>
                             <menuItem isSeparatorItem="YES" id="tk3-J5-6WJ"/>
