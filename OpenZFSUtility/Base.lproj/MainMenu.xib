@@ -60,22 +60,35 @@
                         </items>
                     </menu>
                 </menuItem>
+                <menuItem title="Zpool" id="PhL-Xe-xfL">
+                    <modifierMask key="keyEquivalentModifierMask"/>
+                    <menu key="submenu" title="Zpool" id="9Zz-9S-Ka2">
+                        <items>
+                            <menuItem title="Create zpool..." keyEquivalent="n" id="KfC-i9-mVW"/>
+                            <menuItem title="Delete zpool..." id="YPp-wX-fhy">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                            </menuItem>
+                            <menuItem isSeparatorItem="YES" id="tk3-J5-6WJ"/>
+                            <menuItem title="Create volume..." keyEquivalent="n" id="YPS-DL-z90">
+                                <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Delete volume..." id="t34-Xj-hdQ">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                            </menuItem>
+                            <menuItem isSeparatorItem="YES" id="gE7-7v-ECz"/>
+                            <menuItem title="Create dataset..." keyEquivalent="s" id="J3E-d3-ofV"/>
+                            <menuItem title="Delete dataset..." keyEquivalent="d" id="lEF-lj-UWq"/>
+                            <menuItem isSeparatorItem="YES" id="Y02-GC-UfT"/>
+                            <menuItem title="ZFS Scrub..." keyEquivalent="s" id="T3s-kY-TFT"/>
+                        </items>
+                    </menu>
+                </menuItem>
                 <menuItem title="RAIDZ" id="iu0-UN-Zt5">
                     <modifierMask key="keyEquivalentModifierMask"/>
                     <menu key="submenu" title="RAIDZ" id="ZEs-t7-5a4">
                         <items>
                             <menuItem title="Create RAIDZ Set..." keyEquivalent="N" id="cd6-Dm-N66"/>
                             <menuItem isSeparatorItem="YES" id="gaF-Zs-wfJ"/>
-                            <menuItem title="Create zpool..." keyEquivalent="n" id="xGc-zZ-UcG"/>
-                            <menuItem title="Delete zpool..." id="QrW-R2-X79">
-                                <modifierMask key="keyEquivalentModifierMask"/>
-                            </menuItem>
-                            <menuItem isSeparatorItem="YES" id="RSf-a0-odo"/>
-                            <menuItem title="ZFS Scrub..." keyEquivalent="s" id="5G2-eA-I4V"/>
-                            <menuItem isSeparatorItem="YES" id="0s1-PW-Vh7"/>
-                            <menuItem title="Create dataset..." keyEquivalent="s" id="oQZ-8r-eug"/>
-                            <menuItem title="Delete dataset..." keyEquivalent="d" id="5bd-C4-FA0"/>
-                            <menuItem isSeparatorItem="YES" id="v54-Qq-ivU"/>
                             <menuItem title="Add Cache Device..." keyEquivalent="C" id="WVV-of-HCi"/>
                             <menuItem title="Delete Cache Device..." id="fS0-fY-BSA">
                                 <modifierMask key="keyEquivalentModifierMask"/>
@@ -92,16 +105,15 @@
                         </items>
                     </menu>
                 </menuItem>
-                <menuItem title="ZED" id="4sb-fQ-TUk">
+                <menuItem title="ZED" id="YnP-uH-hhV">
                     <modifierMask key="keyEquivalentModifierMask"/>
-                    <menu key="submenu" title="ZED" systemMenu="window" id="sOW-AE-bwp">
+                    <menu key="submenu" title="ZED" id="r7J-Tl-24J">
                         <items>
-                            <menuItem title="ZED Events..." keyEquivalent="e" id="Xjo-kZ-PtM"/>
-                            <menuItem title="ZED Logs..." id="UVU-j6-56C">
+                            <menuItem title="ZED Logs..." id="Pvy-H1-Mzt">
                                 <modifierMask key="keyEquivalentModifierMask"/>
-                                <connections>
-                                    <action selector="performZoom:" target="-1" id="tOq-We-kZx"/>
-                                </connections>
+                            </menuItem>
+                            <menuItem title="ZED Events..." id="YFc-Yg-3A5">
+                                <modifierMask key="keyEquivalentModifierMask"/>
                             </menuItem>
                         </items>
                     </menu>
@@ -273,31 +285,6 @@
                                             <modifierMask key="keyEquivalentModifierMask"/>
                                             <connections>
                                                 <action selector="toggleAutomaticTextReplacement:" target="-1" id="Vgr-rg-45s"/>
-                                            </connections>
-                                        </menuItem>
-                                    </items>
-                                </menu>
-                            </menuItem>
-                            <menuItem title="Transformations" id="HHO-C7-0bR">
-                                <modifierMask key="keyEquivalentModifierMask"/>
-                                <menu key="submenu" title="Transformations" id="ard-ZN-DpL">
-                                    <items>
-                                        <menuItem title="Make Upper Case" id="3yb-Uf-yhQ">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="uppercaseWord:" target="-1" id="Hj8-o4-Ni3"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Make Lower Case" id="CcA-Pg-mg2">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="lowercaseWord:" target="-1" id="QJE-yb-VYO"/>
-                                            </connections>
-                                        </menuItem>
-                                        <menuItem title="Capitalize" id="ioD-pd-Fo9">
-                                            <modifierMask key="keyEquivalentModifierMask"/>
-                                            <connections>
-                                                <action selector="capitalizeWord:" target="-1" id="hdJ-w5-zZR"/>
                                             </connections>
                                         </menuItem>
                                     </items>
