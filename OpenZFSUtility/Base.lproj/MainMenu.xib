@@ -354,21 +354,21 @@
         <window title="OpenZFS Utility" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" id="Seq-AD-PxN">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
             <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
-            <rect key="contentRect" x="335" y="390" width="756" height="453"/>
+            <rect key="contentRect" x="335" y="390" width="948" height="453"/>
             <rect key="screenRect" x="0.0" y="0.0" width="1680" height="1028"/>
             <view key="contentView" id="1Y2-gu-DfV">
-                <rect key="frame" x="0.0" y="0.0" width="756" height="453"/>
+                <rect key="frame" x="0.0" y="0.0" width="948" height="453"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <splitView fixedFrame="YES" dividerStyle="paneSplitter" vertical="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mfM-29-yPm">
-                        <rect key="frame" x="0.0" y="0.0" width="756" height="453"/>
+                    <splitView fixedFrame="YES" dividerStyle="paneSplitter" vertical="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cLB-Gb-rl2">
+                        <rect key="frame" x="0.0" y="-30" width="948" height="483"/>
                         <subviews>
-                            <customView fixedFrame="YES" id="J22-zR-y6j">
-                                <rect key="frame" x="0.0" y="0.0" width="148" height="453"/>
+                            <customView fixedFrame="YES" id="SUI-QZ-L3R">
+                                <rect key="frame" x="0.0" y="0.0" width="151" height="483"/>
                                 <autoresizingMask key="autoresizingMask"/>
                             </customView>
-                            <customView fixedFrame="YES" id="nVq-yK-Hsw">
-                                <rect key="frame" x="158" y="0.0" width="598" height="453"/>
+                            <customView fixedFrame="YES" id="k8l-qN-nGO">
+                                <rect key="frame" x="161" y="0.0" width="787" height="483"/>
                                 <autoresizingMask key="autoresizingMask"/>
                             </customView>
                         </subviews>
@@ -379,7 +379,32 @@
                     </splitView>
                 </subviews>
             </view>
-            <point key="canvasLocation" x="449" y="321.5"/>
+            <toolbar key="toolbar" implicitIdentifier="5A0C44EA-72A0-4EC9-BD2E-9ED2E013A9C0" autosavesConfiguration="NO" displayMode="iconAndLabel" sizeMode="regular" id="r7O-WT-S0r">
+                <allowedToolbarItems>
+                    <toolbarItem implicitItemIdentifier="NSToolbarSpaceItem" id="QxG-YA-t4C"/>
+                    <toolbarItem implicitItemIdentifier="NSToolbarFlexibleSpaceItem" id="HDW-I9-RWu"/>
+                    <toolbarItem implicitItemIdentifier="B2914F81-A691-4F15-A030-7A8D41EDBA59" label="Create RAIDZ Set" paletteLabel="Create RAIDZ Set" tag="-1" id="o91-hV-tXJ"/>
+                    <toolbarItem implicitItemIdentifier="26B80ECE-7919-4158-B666-0B6C4F234DC7" label="Delete RAIDZ Set" paletteLabel="Delete RAIDZ Set" tag="-1" id="xjd-0i-RBp"/>
+                    <toolbarItem implicitItemIdentifier="0F0FD369-0250-4988-ACE9-A2227FF2B8E2" label="Create Volume" paletteLabel="Create Volume" tag="-1" id="fCi-dW-o3e"/>
+                    <toolbarItem implicitItemIdentifier="E1FE4529-348B-4B0A-AF7B-0F4DC3550AEF" label="Delete Volume" paletteLabel="Delete Volume" tag="-1" id="GPS-4o-cW3"/>
+                    <toolbarItem implicitItemIdentifier="C253A805-6E38-44D3-8CE2-9E3A0ED612E6" label="Create Dataset" paletteLabel="Create Dataset" tag="-1" id="g0o-6x-GAL"/>
+                    <toolbarItem implicitItemIdentifier="85F33EA3-8C8C-4919-B1F3-68248F7ABB7E" label="Delete Dataset" paletteLabel="Delete Dataset" tag="-1" id="Yjf-JE-gA2"/>
+                    <toolbarItem implicitItemIdentifier="BD250840-07BF-4AC8-AF90-D0B2A6999172" label="ZFS Scrub" paletteLabel="ZFS Scrub" tag="-1" id="W1f-5y-ESG"/>
+                </allowedToolbarItems>
+                <defaultToolbarItems>
+                    <toolbarItem reference="o91-hV-tXJ"/>
+                    <toolbarItem reference="xjd-0i-RBp"/>
+                    <toolbarItem reference="HDW-I9-RWu"/>
+                    <toolbarItem reference="fCi-dW-o3e"/>
+                    <toolbarItem reference="GPS-4o-cW3"/>
+                    <toolbarItem reference="HDW-I9-RWu"/>
+                    <toolbarItem reference="g0o-6x-GAL"/>
+                    <toolbarItem reference="Yjf-JE-gA2"/>
+                    <toolbarItem reference="HDW-I9-RWu"/>
+                    <toolbarItem reference="W1f-5y-ESG"/>
+                </defaultToolbarItems>
+            </toolbar>
+            <point key="canvasLocation" x="576" y="420.5"/>
         </window>
     </objects>
 </document>

@@ -1,0 +1,282 @@
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "2GV-9C-xm9"; */
+"2GV-9C-xm9.title" = "Substitutions";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "2ss-IR-xm5"; */
+"2ss-IR-xm5.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "3J0-XS-ZbE"; */
+"3J0-XS-ZbE.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "5Sh-yJ-HGi"; */
+"5Sh-yJ-HGi.title" = "Check Spelling While Typing";
+
+/* Class = "NSMenuItem"; title = "OpenZFS Utility"; ObjectID = "5x9-Qf-PeG"; */
+"5x9-Qf-PeG.title" = "OpenZFS Utility";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "7d1-Kc-vna"; */
+"7d1-Kc-vna.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "8Ts-2q-VVE"; */
+"8Ts-2q-VVE.title" = "Smart Dashes";
+
+/* Class = "NSMenu"; title = "Zpool"; ObjectID = "9Zz-9S-Ka2"; */
+"9Zz-9S-Ka2.title" = "Zpool";
+
+/* Class = "NSMenu"; title = "OpenZFS Utility"; ObjectID = "AFm-fV-mA8"; */
+"AFm-fV-mA8.title" = "OpenZFS Utility";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "AfN-6I-fGd"; */
+"AfN-6I-fGd.title" = "Help";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "BYd-EB-gE7"; */
+"BYd-EB-gE7.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "BvO-aq-aif"; */
+"BvO-aq-aif.title" = "Undo";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "C1k-iu-LmC"; */
+"C1k-iu-LmC.title" = "Check Grammar With Spelling";
+
+/* Class = "NSMenuItem"; title = "OpenZFS Utility Help"; ObjectID = "DK5-h2-74U"; */
+"DK5-h2-74U.title" = "OpenZFS Utility Help";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "EUv-Qf-JcS"; */
+"EUv-Qf-JcS.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Fhe-Ts-dhz"; */
+"Fhe-Ts-dhz.title" = "Preferences…";
+
+/* Class = "NSToolbarItem"; label = "Delete Volume"; ObjectID = "GPS-4o-cW3"; */
+"GPS-4o-cW3.label" = "Delete Volume";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete Volume"; ObjectID = "GPS-4o-cW3"; */
+"GPS-4o-cW3.paletteLabel" = "Delete Volume";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "HZo-qc-3PN"; */
+"HZo-qc-3PN.title" = "Redo";
+
+/* Class = "NSMenuItem"; title = "Create dataset..."; ObjectID = "J3E-d3-ofV"; */
+"J3E-d3-ofV.title" = "Create dataset...";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "J3c-d2-sAt"; */
+"J3c-d2-sAt.title" = "Show Substitutions";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "JLC-Jl-UkK"; */
+"JLC-Jl-UkK.title" = "Spelling and Grammar";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "JZG-Nl-dXs"; */
+"JZG-Nl-dXs.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Create zpool..."; ObjectID = "KfC-i9-mVW"; */
+"KfC-i9-mVW.title" = "Create zpool...";
+
+/* Class = "NSMenuItem"; title = "Add ZIL Device..."; ObjectID = "L56-Ii-lGN"; */
+"L56-Ii-lGN.title" = "Add ZIL Device...";
+
+/* Class = "NSMenuItem"; title = "Make Spare..."; ObjectID = "Nzi-n2-sAf"; */
+"Nzi-n2-sAf.title" = "Make Spare...";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "O3i-Mx-bSA"; */
+"O3i-Mx-bSA.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "OKx-e2-RCz"; */
+"OKx-e2-RCz.title" = "Data Detectors";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "OSm-ls-dKS"; */
+"OSm-ls-dKS.title" = "Delete";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "OgO-NR-PVp"; */
+"OgO-NR-PVp.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "PZR-aW-9CC"; */
+"PZR-aW-9CC.title" = "Use Selection for Find";
+
+/* Class = "NSMenuItem"; title = "Zpool"; ObjectID = "PhL-Xe-xfL"; */
+"PhL-Xe-xfL.title" = "Zpool";
+
+/* Class = "NSMenuItem"; title = "ZED Logs..."; ObjectID = "Pvy-H1-Mzt"; */
+"Pvy-H1-Mzt.title" = "ZED Logs...";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "QnJ-SU-eUF"; */
+"QnJ-SU-eUF.title" = "Start Speaking";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "SdV-iu-8pH"; */
+"SdV-iu-8pH.title" = "Smart Quotes";
+
+/* Class = "NSWindow"; title = "OpenZFS Utility"; ObjectID = "Seq-AD-PxN"; */
+"Seq-AD-PxN.title" = "OpenZFS Utility";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "SgR-fl-1ld"; */
+"SgR-fl-1ld.title" = "Paste";
+
+/* Class = "NSMenuItem"; title = "ZFS Scrub..."; ObjectID = "T3s-kY-TFT"; */
+"T3s-kY-TFT.title" = "ZFS Scrub...";
+
+/* Class = "NSMenuItem"; title = "Delete ZIL Device..."; ObjectID = "UdR-WT-lUH"; */
+"UdR-WT-lUH.title" = "Delete ZIL Device...";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "VEG-Du-1Em"; */
+"VEG-Du-1Em.title" = "Find and Replace…";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "Vp8-tK-A8c"; */
+"Vp8-tK-A8c.title" = "Help";
+
+/* Class = "NSToolbarItem"; label = "ZFS Scrub"; ObjectID = "W1f-5y-ESG"; */
+"W1f-5y-ESG.label" = "ZFS Scrub";
+
+/* Class = "NSToolbarItem"; paletteLabel = "ZFS Scrub"; ObjectID = "W1f-5y-ESG"; */
+"W1f-5y-ESG.paletteLabel" = "ZFS Scrub";
+
+/* Class = "NSMenuItem"; title = "Add Cache Device..."; ObjectID = "WVV-of-HCi"; */
+"WVV-of-HCi.title" = "Add Cache Device...";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Wem-OA-jv0"; */
+"Wem-OA-jv0.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "ZED Events..."; ObjectID = "YFc-Yg-3A5"; */
+"YFc-Yg-3A5.title" = "ZED Events...";
+
+/* Class = "NSMenuItem"; title = "Create volume..."; ObjectID = "YPS-DL-z90"; */
+"YPS-DL-z90.title" = "Create volume...";
+
+/* Class = "NSMenuItem"; title = "Delete zpool..."; ObjectID = "YPp-wX-fhy"; */
+"YPp-wX-fhy.title" = "Delete zpool...";
+
+/* Class = "NSToolbarItem"; label = "Delete Dataset"; ObjectID = "Yjf-JE-gA2"; */
+"Yjf-JE-gA2.label" = "Delete Dataset";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete Dataset"; ObjectID = "Yjf-JE-gA2"; */
+"Yjf-JE-gA2.paletteLabel" = "Delete Dataset";
+
+/* Class = "NSMenuItem"; title = "ZED"; ObjectID = "YnP-uH-hhV"; */
+"YnP-uH-hhV.title" = "ZED";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ypw-wu-0e6"; */
+"Ypw-wu-0e6.title" = "Select All";
+
+/* Class = "NSMenu"; title = "RAIDZ"; ObjectID = "ZEs-t7-5a4"; */
+"ZEs-t7-5a4.title" = "RAIDZ";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "ZXQ-MD-Ir7"; */
+"ZXQ-MD-Ir7.title" = "Correct Spelling Automatically";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "afg-e6-cZp"; */
+"afg-e6-cZp.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "aui-hy-Z8A"; */
+"aui-hy-Z8A.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "axo-gL-NIE"; */
+"axo-gL-NIE.title" = "Stop Speaking";
+
+/* Class = "NSMenuItem"; title = "Create RAIDZ Set..."; ObjectID = "cd6-Dm-N66"; */
+"cd6-Dm-N66.title" = "Create RAIDZ Set...";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "eLq-PD-Tb2"; */
+"eLq-PD-Tb2.title" = "Edit";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "ec6-zz-kHq"; */
+"ec6-zz-kHq.title" = "Substitutions";
+
+/* Class = "NSToolbarItem"; label = "Create Volume"; ObjectID = "fCi-dW-o3e"; */
+"fCi-dW-o3e.label" = "Create Volume";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Create Volume"; ObjectID = "fCi-dW-o3e"; */
+"fCi-dW-o3e.paletteLabel" = "Create Volume";
+
+/* Class = "NSMenuItem"; title = "Delete Cache Device..."; ObjectID = "fS0-fY-BSA"; */
+"fS0-fY-BSA.title" = "Delete Cache Device...";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "fV1-K2-4Of"; */
+"fV1-K2-4Of.title" = "Text Replacement";
+
+/* Class = "NSMenuItem"; title = "Hide OpenZFSUtility"; ObjectID = "flo-oa-gSV"; */
+"flo-oa-gSV.title" = "Hide OpenZFSUtility";
+
+/* Class = "NSToolbarItem"; label = "Create Dataset"; ObjectID = "g0o-6x-GAL"; */
+"g0o-6x-GAL.label" = "Create Dataset";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Create Dataset"; ObjectID = "g0o-6x-GAL"; */
+"g0o-6x-GAL.paletteLabel" = "Create Dataset";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "gBE-lm-6kx"; */
+"gBE-lm-6kx.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "h41-bo-Dxy"; */
+"h41-bo-Dxy.title" = "Find…";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hST-1o-FD8"; */
+"hST-1o-FD8.title" = "Check Document Now";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "iHa-Vf-pCH"; */
+"iHa-Vf-pCH.title" = "Show Spelling and Grammar";
+
+/* Class = "NSMenuItem"; title = "RAIDZ"; ObjectID = "iu0-UN-Zt5"; */
+"iu0-UN-Zt5.title" = "RAIDZ";
+
+/* Class = "NSMenuItem"; title = "Delete dataset..."; ObjectID = "lEF-lj-UWq"; */
+"lEF-lj-UWq.title" = "Delete dataset...";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "ltK-im-DBP"; */
+"ltK-im-DBP.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Deattach Spare..."; ObjectID = "n8t-7R-aso"; */
+"n8t-7R-aso.title" = "Deattach Spare...";
+
+/* Class = "NSToolbarItem"; label = "Create RAIDZ Set"; ObjectID = "o91-hV-tXJ"; */
+"o91-hV-tXJ.label" = "Create RAIDZ Set";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Create RAIDZ Set"; ObjectID = "o91-hV-tXJ"; */
+"o91-hV-tXJ.paletteLabel" = "Create RAIDZ Set";
+
+/* Class = "NSMenuItem"; title = "About OpenZFS Utility"; ObjectID = "oPq-Md-wX7"; */
+"oPq-Md-wX7.title" = "About OpenZFS Utility";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "oVs-4g-dNt"; */
+"oVs-4g-dNt.title" = "Smart Copy/Paste";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "ovi-K1-fqb"; */
+"ovi-K1-fqb.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "qmT-jh-GSu"; */
+"qmT-jh-GSu.title" = "Paste and Match Style";
+
+/* Class = "NSMenu"; title = "ZED"; ObjectID = "r7J-Tl-24J"; */
+"r7J-Tl-24J.title" = "ZED";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "rRS-Lt-Clp"; */
+"rRS-Lt-Clp.title" = "Cut";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "sjv-EV-BdR"; */
+"sjv-EV-BdR.title" = "Spelling";
+
+/* Class = "NSMenuItem"; title = "Delete volume..."; ObjectID = "t34-Xj-hdQ"; */
+"t34-Xj-hdQ.title" = "Delete volume...";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "teL-dW-2KD"; */
+"teL-dW-2KD.title" = "Find Previous";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "u5H-dg-TwR"; */
+"u5H-dg-TwR.title" = "Jump to Selection";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "u65-c9-Ncb"; */
+"u65-c9-Ncb.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "v8r-0y-fcO"; */
+"v8r-0y-fcO.title" = "Smart Links";
+
+/* Class = "NSMenuItem"; title = "Quit OpenZFSUtility"; ObjectID = "vbA-YL-dhL"; */
+"vbA-YL-dhL.title" = "Quit OpenZFSUtility";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "xXw-LO-2zt"; */
+"xXw-LO-2zt.title" = "Find";
+
+/* Class = "NSToolbarItem"; label = "Delete RAIDZ Set"; ObjectID = "xjd-0i-RBp"; */
+"xjd-0i-RBp.label" = "Delete RAIDZ Set";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete RAIDZ Set"; ObjectID = "xjd-0i-RBp"; */
+"xjd-0i-RBp.paletteLabel" = "Delete RAIDZ Set";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "xxd-A6-E3I"; */
+"xxd-A6-E3I.title" = "Find Next";
