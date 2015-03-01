@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		434019771AA34DF300607D68 /* Add ZVOL.png in Resources */ = {isa = PBXBuildFile; fileRef = 434019761AA34DF300607D68 /* Add ZVOL.png */; };
+		434019791AA34E0300607D68 /* Delete ZVOL.png in Resources */ = {isa = PBXBuildFile; fileRef = 434019781AA34E0300607D68 /* Delete ZVOL.png */; };
+		4340197B1AA3505800607D68 /* Add Dataset.png in Resources */ = {isa = PBXBuildFile; fileRef = 4340197A1AA3505800607D68 /* Add Dataset.png */; };
+		4340197D1AA3506300607D68 /* Delete Dataset.png in Resources */ = {isa = PBXBuildFile; fileRef = 4340197C1AA3506300607D68 /* Delete Dataset.png */; };
+		4340197F1AA3516C00607D68 /* ZFS Scrub.png in Resources */ = {isa = PBXBuildFile; fileRef = 4340197E1AA3516C00607D68 /* ZFS Scrub.png */; };
 		43E54A3C1AA0494700607D68 /* Add RAIDZ Set.png in Resources */ = {isa = PBXBuildFile; fileRef = 43E54A3A1AA0494700607D68 /* Add RAIDZ Set.png */; };
 		43E54A3D1AA0494700607D68 /* Delete RAIDZ Set.png in Resources */ = {isa = PBXBuildFile; fileRef = 43E54A3B1AA0494700607D68 /* Delete RAIDZ Set.png */; };
 		829839ED1A7F9122001371D5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 829839EC1A7F9122001371D5 /* AppDelegate.m */; };
@@ -29,6 +34,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		434019761AA34DF300607D68 /* Add ZVOL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Add ZVOL.png"; sourceTree = "<group>"; };
+		434019781AA34E0300607D68 /* Delete ZVOL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Delete ZVOL.png"; sourceTree = "<group>"; };
+		4340197A1AA3505800607D68 /* Add Dataset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Add Dataset.png"; sourceTree = "<group>"; };
+		4340197C1AA3506300607D68 /* Delete Dataset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Delete Dataset.png"; sourceTree = "<group>"; };
+		4340197E1AA3516C00607D68 /* ZFS Scrub.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ZFS Scrub.png"; sourceTree = "<group>"; };
 		43E54A371AA0403500607D68 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/MainMenu.strings; sourceTree = "<group>"; };
 		43E54A3A1AA0494700607D68 /* Add RAIDZ Set.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Add RAIDZ Set.png"; sourceTree = "<group>"; };
 		43E54A3B1AA0494700607D68 /* Delete RAIDZ Set.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Delete RAIDZ Set.png"; sourceTree = "<group>"; };
@@ -99,6 +109,11 @@
 		829839E91A7F9122001371D5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4340197E1AA3516C00607D68 /* ZFS Scrub.png */,
+				4340197C1AA3506300607D68 /* Delete Dataset.png */,
+				4340197A1AA3505800607D68 /* Add Dataset.png */,
+				434019761AA34DF300607D68 /* Add ZVOL.png */,
+				434019781AA34E0300607D68 /* Delete ZVOL.png */,
 				43E54A3A1AA0494700607D68 /* Add RAIDZ Set.png */,
 				43E54A3B1AA0494700607D68 /* Delete RAIDZ Set.png */,
 				829839EA1A7F9122001371D5 /* Info.plist */,
@@ -205,8 +220,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				82BD7E1F1A7F986700B87162 /* LICENSE in Resources */,
+				4340197B1AA3505800607D68 /* Add Dataset.png in Resources */,
 				829839F11A7F9122001371D5 /* Images.xcassets in Resources */,
+				434019791AA34E0300607D68 /* Delete ZVOL.png in Resources */,
 				829839F41A7F9122001371D5 /* MainMenu.xib in Resources */,
+				4340197D1AA3506300607D68 /* Delete Dataset.png in Resources */,
+				4340197F1AA3516C00607D68 /* ZFS Scrub.png in Resources */,
+				434019771AA34DF300607D68 /* Add ZVOL.png in Resources */,
 				43E54A3D1AA0494700607D68 /* Delete RAIDZ Set.png in Resources */,
 				43E54A3C1AA0494700607D68 /* Add RAIDZ Set.png in Resources */,
 			);

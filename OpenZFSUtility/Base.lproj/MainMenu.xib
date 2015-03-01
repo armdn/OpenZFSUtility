@@ -385,11 +385,11 @@
                     <toolbarItem implicitItemIdentifier="NSToolbarFlexibleSpaceItem" id="HDW-I9-RWu"/>
                     <toolbarItem implicitItemIdentifier="B2914F81-A691-4F15-A030-7A8D41EDBA59" label="Create RAIDZ Set" paletteLabel="Create RAIDZ Set" tag="101" image="Add RAIDZ Set" id="o91-hV-tXJ"/>
                     <toolbarItem implicitItemIdentifier="26B80ECE-7919-4158-B666-0B6C4F234DC7" label="Delete RAIDZ Set" paletteLabel="Delete RAIDZ Set" tag="102" image="Delete RAIDZ Set" id="xjd-0i-RBp"/>
-                    <toolbarItem implicitItemIdentifier="0F0FD369-0250-4988-ACE9-A2227FF2B8E2" label="Create Volume" paletteLabel="Create Volume" tag="-1" id="fCi-dW-o3e"/>
-                    <toolbarItem implicitItemIdentifier="E1FE4529-348B-4B0A-AF7B-0F4DC3550AEF" label="Delete Volume" paletteLabel="Delete Volume" tag="-1" id="GPS-4o-cW3"/>
-                    <toolbarItem implicitItemIdentifier="C253A805-6E38-44D3-8CE2-9E3A0ED612E6" label="Create Dataset" paletteLabel="Create Dataset" tag="-1" id="g0o-6x-GAL"/>
-                    <toolbarItem implicitItemIdentifier="85F33EA3-8C8C-4919-B1F3-68248F7ABB7E" label="Delete Dataset" paletteLabel="Delete Dataset" tag="-1" id="Yjf-JE-gA2"/>
-                    <toolbarItem implicitItemIdentifier="BD250840-07BF-4AC8-AF90-D0B2A6999172" label="ZFS Scrub" paletteLabel="ZFS Scrub" tag="-1" id="W1f-5y-ESG"/>
+                    <toolbarItem implicitItemIdentifier="0F0FD369-0250-4988-ACE9-A2227FF2B8E2" label="Create Volume" paletteLabel="Create Volume" tag="103" image="Add ZVOL" id="fCi-dW-o3e"/>
+                    <toolbarItem implicitItemIdentifier="E1FE4529-348B-4B0A-AF7B-0F4DC3550AEF" label="Delete Volume" paletteLabel="Delete Volume" tag="104" image="Delete ZVOL" id="GPS-4o-cW3"/>
+                    <toolbarItem implicitItemIdentifier="C253A805-6E38-44D3-8CE2-9E3A0ED612E6" label="Create Dataset" paletteLabel="Create Dataset" tag="105" image="Add Dataset" id="g0o-6x-GAL"/>
+                    <toolbarItem implicitItemIdentifier="85F33EA3-8C8C-4919-B1F3-68248F7ABB7E" label="Delete Dataset" paletteLabel="Delete Dataset" tag="106" image="Delete Dataset" id="Yjf-JE-gA2"/>
+                    <toolbarItem implicitItemIdentifier="BD250840-07BF-4AC8-AF90-D0B2A6999172" label="ZFS Scrub" paletteLabel="ZFS Scrub" tag="107" image="ZFS Scrub" id="W1f-5y-ESG"/>
                 </allowedToolbarItems>
                 <defaultToolbarItems>
                     <toolbarItem reference="o91-hV-tXJ"/>
@@ -408,7 +408,12 @@
         </window>
     </objects>
     <resources>
+        <image name="Add Dataset" width="269" height="300"/>
         <image name="Add RAIDZ Set" width="512" height="512"/>
+        <image name="Add ZVOL" width="512" height="512"/>
+        <image name="Delete Dataset" width="269" height="300"/>
         <image name="Delete RAIDZ Set" width="512" height="512"/>
+        <image name="Delete ZVOL" width="512" height="512"/>
+        <image name="ZFS Scrub" width="400" height="400"/>
     </resources>
 </document>
